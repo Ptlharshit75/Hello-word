@@ -1,1 +1,7 @@
-# Hello-word
+
+
+#include <iostream>
+using namespace std;
+{
+    cout << "Hello World!";
+}
